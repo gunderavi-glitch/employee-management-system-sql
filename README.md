@@ -27,6 +27,10 @@ The project contains six interconnected tables:
 5. **Leaves** – Employee leave records
 6. **Payroll** – Payroll and payment information
 
+## Database ER Diagram
+<img width="1125" height="830" alt="image" src="https://github.com/user-attachments/assets/1fb17edd-be05-4eb1-b0ec-12b8e5129a31" />
+
+
 ## SQL Concepts Used
 
 - Database and Table Creation
@@ -103,3 +107,4 @@ The project analyzes questions such as:
 
 B.Tech – Electrical and Electronics Engineering  
 Aspiring Data Analyst
+
