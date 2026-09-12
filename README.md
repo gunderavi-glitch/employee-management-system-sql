@@ -1,4 +1,3 @@
-
 # Employee Management System – SQL Project
 
 ## Project Overview
@@ -27,9 +26,9 @@ The project contains six interconnected tables:
 5. **Leaves** – Employee leave records
 6. **Payroll** – Payroll and payment information
 
-## Database ER Diagram
-<img width="1125" height="830" alt="image" src="https://github.com/user-attachments/assets/1fb17edd-be05-4eb1-b0ec-12b8e5129a31" />
+## ER Diagram
 
+![Employee Management System ER Diagram](ER_Diagram.png)
 
 ## SQL Concepts Used
 
@@ -87,11 +86,12 @@ The project analyzes questions such as:
 - `employee_project.sql` – Complete SQL database and analysis queries
 - `Ravi_EMS_SQL_Project_Innomatics.pptx` – Project presentation
 - `Employee.csv` – Employee data
-- `leaves.csv` – Leave data
+- `Leaves.csv` – Leave data
 - `Payroll.csv` – Payroll data
 - `Qualification.csv` – Qualification data
 - `Salary_Bonus.csv` – Salary and bonus data
 - `obDepartment.csv` – Department data
+- `ER_Diagram.png` – Entity Relationship Diagram
 
 ## Future Scope
 
@@ -107,4 +107,3 @@ The project analyzes questions such as:
 
 B.Tech – Electrical and Electronics Engineering  
 Aspiring Data Analyst
-
