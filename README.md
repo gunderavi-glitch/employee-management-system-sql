@@ -28,7 +28,8 @@ The project contains six interconnected tables:
 
 ## ER Diagram
 
-![Employee Management System ER Diagram](ER_Diagram.png)
+<img width="1125" height="830" alt="image" src="https://github.com/user-attachments/assets/ee5370bd-67e9-499f-96af-30fb94996c96" />
+
 
 ## SQL Concepts Used
 
